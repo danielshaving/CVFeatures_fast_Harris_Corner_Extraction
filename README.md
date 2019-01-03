@@ -5,7 +5,7 @@ This Harris Corner Kps extraction codes based on the calculation of Heissen matr
 ## R function (Harris response)
 
 - Images after gaussian filters
-![Pic](images/Test Result1.png)
+![Pic](CVFeatures_fast_Harris_Corner_Extraction/images/Test Result1.png)
 - Second derivatives in x->x direction, x->y direction, y->y directions
 - M is the 2*2 matrix computed from image derivatives:
 ![Pic](images/Test Result2.png)
